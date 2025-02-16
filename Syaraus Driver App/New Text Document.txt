@@ -1,0 +1,1 @@
+Home Screen, List of rides, ride detail, ride detail screen , registration screen, vehicle information screen, bank detail screen, faq screen, invite screen

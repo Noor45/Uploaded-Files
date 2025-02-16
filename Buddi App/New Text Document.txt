@@ -1,0 +1,2 @@
+Select University Screen, Signin Screen, SignupScreen
+Home Screen, Post Screen, Comment Screen, Create Post Screen, Live Chat Screen, Resource Screen, Profile Screen, Setting Screen, Select Interests Screen, Edit Profile Screen, Notification Screen 

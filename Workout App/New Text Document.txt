@@ -1,0 +1,1 @@
+signin screen, signup screen, select gender screen, select data of birth screen, select weight screen, home screen, fastest workout screen, progress screen, history screen, videos screen
