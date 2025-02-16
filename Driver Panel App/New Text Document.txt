@@ -1,0 +1,1 @@
+Splash Screen, Login screen (2 screens), Dashboard Screen, Order Screen (2 screens), Order Pickup Screen, google map, Complete Order Screen (2 screens), History Screen, Earning Screen (2 screens), Profile Screen , Document Verification Screen, Primary Address Screen, Service Detail Screen, Vehicle Information Screen, Driving License Screen
